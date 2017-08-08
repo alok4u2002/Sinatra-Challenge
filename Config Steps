@@ -3,7 +3,8 @@ Launch New EC2 Instance
 Select OS ubuntu 14.04
 t2.micro
 30 gigs of General Purpose SSD
-select security group
+Create Security Group
+Create incoming and outgoing rules for SSH, HTTP, HTTPS
 Select key pair
 Launch Instance
 ssh EC2 Instance ubuntu
