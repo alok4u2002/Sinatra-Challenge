@@ -23,3 +23,4 @@ cd simple-sinatra-app
 bundle install
 bundle exec rackup
 rackup -p 80
+Configure Elastic IP or choose default public address allocated to EC2 instance to access application
