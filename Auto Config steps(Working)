@@ -8,3 +8,4 @@ Select OS platform
 Configure Security role for network port to access application. 
 Configure monitoring policies, deployment policies etc
 Create environment.
+Configure Elastic IP or choose default public address allocated to EC2 instance to access application
