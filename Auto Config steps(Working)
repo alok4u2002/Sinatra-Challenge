@@ -1,0 +1,10 @@
+Open aws console. aws.amazon.com
+Select EBS from Compute Services
+Create new web server environment
+Choose Platform as Ruby
+Upload Application code
+Configure other options
+Select OS platform
+Configure Security role for network port to access application. 
+Configure monitoring policies, deployment policies etc
+Create environment.
